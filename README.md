@@ -1,2 +1,2 @@
 # conan-PicoSHA2
-Simple recipe for PicoSHA2
+Simple Conan recipe for PicoSHA2
